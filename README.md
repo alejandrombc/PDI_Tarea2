@@ -2,7 +2,7 @@
 
 ## Contenido
 * Desarrollo y ejecucion
-* Integrante
+* Integrantes
 
 ## Desarrollo y ejecucion
 La tarea se desarrollo en el lenguaje de JAVA, especificamente usando el IDE de NetBeans 8.1 en Windows (y solo fue probada en esta version).
