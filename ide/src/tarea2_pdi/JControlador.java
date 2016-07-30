@@ -602,8 +602,8 @@ class JControlador {
                     
                     x2 = (int)((x2) - tan*(y2))+((dist/2));
                     y2 = (int)(-y2)+((dist/2));
-
-                    picture_2.setRGB(x2, y2, temp);
+                    
+                    if(x2 < dist && y2 < dist && x2 > -1 && y2 > -1) picture_2.setRGB(x2, y2, temp);
                     x2 = 0;
                     y2 = 0;
                 }
