@@ -1,4 +1,4 @@
-# [Tarea 2](https://github.com/alejandrombc/Tarea2_PDI)
+# [Tarea 2](https://github.com/alejandrombc/PDI_Tarea2)
 
 ## Contenido
 * Desarrollo y ejecucion
